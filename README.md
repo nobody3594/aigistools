@@ -1,11 +1,11 @@
 # 千年戦争アイギスツール
 
-[![Dependency Status](https://david-dm.org/zenith6/aigistools.svg)](https://david-dm.org/zenith6/aigistools)
-[![devDependency Status](https://david-dm.org/zenith6/aigistools/dev-status.svg)](https://david-dm.org/zenith6/aigistools#info=devDependencies)
+[![Dependency Status](https://david-dm.org/nobody3594/aigistools.svg)](https://david-dm.org/nobody3594/aigistools)
+[![devDependency Status](https://david-dm.org/nobody3594/aigistools/dev-status.svg)](https://david-dm.org/nobody3594/aigistools#info=devDependencies)
 
 千年戦争アイギス用のツール置き場です。
 
-https://zenith6.github.io/aigistools/
+https://nobody3594.github.io/aigistools/
 
 
 ## インストールとビルド

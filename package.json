@@ -8,7 +8,7 @@
     "build": "gulp build",
     "start": "gulp server"
   },
-  "author": "Seiji Nitta <zenith6@gmail.com>",
+  "author": "Nobu BADAI <nobody3594@gmail.com>",
   "license": "MIT",
   "dependencies": {
   },
