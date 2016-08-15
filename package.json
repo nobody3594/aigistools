@@ -6,6 +6,7 @@
     "test": "gulp test",
     "postinstall": "bower install",
     "build": "gulp build",
+    "deploy": "gulp deploy",
     "start": "gulp server"
   },
   "author": "Nobu BADAI <nobody3594@gmail.com>",
