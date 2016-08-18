@@ -144,7 +144,7 @@
           {"name": "虹聖霊", "icon": "rainbow-sprit"}
         ],
         "experience": 400,
-        "gold": 4500
+        "gold": 3000
       },
       {
         "name": "二匹の妖狐",
@@ -158,7 +158,7 @@
           {"name": "虹聖霊", "icon": "rainbow-sprit"}
         ],
         "experience": 200,
-        "gold": 2700
+        "gold": 1800
       }
     ],
     "rewards": [
